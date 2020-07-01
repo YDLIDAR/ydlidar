@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="ydlidar_ros" type="LidarCal.py" name="CalibData" output="screen">
+        
+    </node>
+</launch>
