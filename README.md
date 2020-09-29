@@ -45,7 +45,7 @@ Note: PWM option speed control requires external PWM wave.
 
     1) Clone this project to your catkin's workspace src folder
     	(1). git clone https://github.com/YDLIDAR/ydlidar_ros
-    	(2). git chectout master
+    	(2). git checkout master
     2) Running catkin_make to build ydlidar_node and ydlidar_client
     3) Create the name "/dev/ydlidar" for YDLIDAR
     --$ roscd ydlidar_ros/startup
